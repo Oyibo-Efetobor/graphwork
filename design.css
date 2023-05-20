@@ -1,0 +1,9 @@
+/* body{
+    background-color: aquamarine;
+} */
+
+@media (max-width: 1028px){
+    img{
+        width: 115%;
+    }
+}
